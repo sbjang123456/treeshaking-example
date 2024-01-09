@@ -1,9 +1,10 @@
 {
   "name": "@sbjang123456/my-utils",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "private": true,
   "scripts": {
     "build": "rollup -c",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +17,8 @@
     "@rollup/plugin-terser": "~0.4.4",
     "rollup": "~4.9.2",
     "typescript": "^5.2.2"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
