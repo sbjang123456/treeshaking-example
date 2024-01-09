@@ -29,6 +29,6 @@
     "typescript": "^5.2.2"
   },
   "dependencies": {
-    "my-utils": "workspace:*"
+    "@sbjang123456/my-utils": "workspace:*"
   }
 }
