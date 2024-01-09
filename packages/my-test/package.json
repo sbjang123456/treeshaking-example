@@ -33,6 +33,7 @@
     "@sbjang123456/my-utils": "workspace:*"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "directory": "dist"
   }
 }
