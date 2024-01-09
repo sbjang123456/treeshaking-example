@@ -1,4 +1,4 @@
-import { plusOne, plusTwo } from "my-utils";
+import { plusOne, plusTwo } from "@sbjang123456/my-utils";
 
 export const getTest = () => {
     console.log('fucking')

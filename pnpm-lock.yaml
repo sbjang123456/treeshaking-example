@@ -24,7 +24,7 @@ importers:
         specifier: ~5.15.3
         version: 5.15.3(@emotion/react@11.11.3)(@emotion/styled@11.11.0)(@types/react@18.2.47)(react-dom@18.2.0)(react@18.2.0)
       '@sbjang123456/my-test':
-        specifier: workspace:~
+        specifier: 1.1.0
         version: link:../../packages/my-test
       next:
         specifier: 14.0.4
