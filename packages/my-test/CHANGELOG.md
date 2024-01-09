@@ -1,5 +1,13 @@
 # @sbjang123456/my-test
 
+## 1.1.2
+
+### Patch Changes
+
+- e10e250: publishconfig dir test
+- Updated dependencies [e10e250]
+  - @sbjang123456/my-utils@1.1.2
+
 ## 1.1.1
 
 ### Patch Changes

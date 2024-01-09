@@ -24,8 +24,8 @@ importers:
         specifier: ~5.15.3
         version: 5.15.3(@emotion/react@11.11.3)(@emotion/styled@11.11.0)(@types/react@18.2.47)(react-dom@18.2.0)(react@18.2.0)
       '@sbjang123456/my-test':
-        specifier: 1.1.0
-        version: link:../../packages/my-test
+        specifier: 1.1.2
+        version: link:../../packages/my-test/dist
       next:
         specifier: 14.0.4
         version: 14.0.4(react-dom@18.2.0)(react@18.2.0)
@@ -59,7 +59,7 @@ importers:
     dependencies:
       '@sbjang123456/my-utils':
         specifier: workspace:*
-        version: link:../my-utils
+        version: link:../my-utils/dist
     devDependencies:
       '@babel/preset-env':
         specifier: ~7.23.7
@@ -82,6 +82,7 @@ importers:
       typescript:
         specifier: ^5.2.2
         version: 5.3.3
+    publishDirectory: dist
 
   packages/my-utils:
     devDependencies:
@@ -97,6 +98,7 @@ importers:
       typescript:
         specifier: ^5.2.2
         version: 5.3.3
+    publishDirectory: dist
 
 packages:
 

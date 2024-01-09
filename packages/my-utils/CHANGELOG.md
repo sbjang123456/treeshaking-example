@@ -1,5 +1,11 @@
 # @sbjang123456/my-utils
 
+## 1.1.2
+
+### Patch Changes
+
+- e10e250: publishconfig dir test
+
 ## 1.1.1
 
 ### Patch Changes
