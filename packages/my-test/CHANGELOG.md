@@ -1,5 +1,13 @@
 # @sbjang123456/my-test
 
+## 1.1.4
+
+### Patch Changes
+
+- package change
+- Updated dependencies
+  - @sbjang123456/my-utils@1.1.4
+
 ## 1.1.3
 
 ### Patch Changes

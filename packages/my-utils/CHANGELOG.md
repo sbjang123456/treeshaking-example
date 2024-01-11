@@ -1,5 +1,11 @@
 # @sbjang123456/my-utils
 
+## 1.1.4
+
+### Patch Changes
+
+- package change
+
 ## 1.1.3
 
 ### Patch Changes
