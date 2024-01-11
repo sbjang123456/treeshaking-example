@@ -1,5 +1,11 @@
 # @sbjang123456/my-utils
 
+## 1.1.3
+
+### Patch Changes
+
+- publish config 수정정
+
 ## 1.1.2
 
 ### Patch Changes

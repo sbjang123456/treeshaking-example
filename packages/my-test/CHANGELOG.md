@@ -1,5 +1,13 @@
 # @sbjang123456/my-test
 
+## 1.1.3
+
+### Patch Changes
+
+- publish config 수정정
+- Updated dependencies
+  - @sbjang123456/my-utils@1.1.3
+
 ## 1.1.2
 
 ### Patch Changes
