@@ -1,5 +1,11 @@
 # @sbjang123456/my-utils
 
+## 1.1.5
+
+### Patch Changes
+
+- add copy script
+
 ## 1.1.4
 
 ### Patch Changes
