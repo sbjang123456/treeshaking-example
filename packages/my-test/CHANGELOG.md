@@ -1,5 +1,11 @@
 # @sbjang123456/my-test
 
+## 1.1.6
+
+### Patch Changes
+
+- minor update getTest3
+
 ## 1.1.5
 
 ### Patch Changes
