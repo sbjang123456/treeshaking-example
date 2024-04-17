@@ -1,5 +1,11 @@
 # @sbjang123456/my-utils
 
+## 1.2.0
+
+### Minor Changes
+
+- add plus three
+
 ## 1.1.5
 
 ### Patch Changes
