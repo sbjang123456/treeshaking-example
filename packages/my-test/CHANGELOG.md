@@ -1,5 +1,11 @@
 # @sbjang123456/my-test
 
+## 1.2.0
+
+### Minor Changes
+
+- strict check
+
 ## 1.1.7
 
 ### Patch Changes

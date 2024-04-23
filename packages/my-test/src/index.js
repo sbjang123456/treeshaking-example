@@ -19,3 +19,20 @@ export const getTest3 = () => {
   console.log("hihihihi version test");
   return plusTwo(30);
 };
+
+export const checkNoVarInitForLoop = () => {
+  let str = "";
+  for (i = 0; i < 10; i++) {
+    console.log(i);
+    str += `${i}`;
+  }
+  return str;
+};
+export const checkYesVarInitForLoop = () => {
+  let str = "";
+  for (let i = 0; i < 10; i + 2) {
+    console.log(i);
+    str += `${i}`;
+  }
+  return str;
+};
